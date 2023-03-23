@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/GeovaniLima/87dd9f3ee1e580e5998276e616c14800/raw/e7509c536b6540988f90fdf651e0610d146cd2a1/githubcard.svg"/>
+<img align="right" height="390em" src="https://raw.githubusercontent.com/gist/GeovaniLima/87dd9f3ee1e580e5998276e616c14800/raw/e7509c536b6540988f90fdf651e0610d146cd2a1/githubcard.svg"/>
 
 <h1 align="left">Olá me chamo Geovani Lima</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geovanilima&color=yellow" alt="Profile views" /> </p>
