@@ -1,46 +1,18 @@
-<img align="right" height="490em" src="https://raw.githubusercontent.com/gist/GeovaniLima/87dd9f3ee1e580e5998276e616c14800/raw/e7509c536b6540988f90fdf651e0610d146cd2a1/githubcard.svg"/>
+# 💫 Sobre:
+Atuo com IA, automações e dados, desenvolvendo soluções inteligentes que transformam informações em decisões estratégicas e processos escaláveis. <br><br>Com mais de 11 anos de experiência em projetos e liderança, estruturo pipelines, organizo bases de dados e crio fluxos automatizados que reduzem gargalos, aumentam produtividade e geram eficiência operacional. <br><br>Trabalho com Python, SQL, Databricks, Airflow, Power BI e N8N, construindo integrações, agentes de IA e automações de alto impacto, sempre conectando visão estratégica com execução prática. <br><br>Meu foco é aplicar inteligência artificial e engenharia de dados para criar estruturas sólidas, eficientes e preparadas para crescimento sustentável.
 
-<h1 align="left">Olá me chamo Geovani Lima</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geovanilima&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Programador Full-stack Pleno e apaixonado por Mobile.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/geovani-lima-da-silva/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geovani.lima.silva@hotmail.com) 
 
-- 💬 Tecnologias principais **JavaScript, HTML, CSS, SQL, Node.JS, React e React Native**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=GeovaniLima&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=GeovaniLima&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=GeovaniLima&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br><br>
+---
+[![](https://komarev.com/ghpvc/?username=GeovaniLima&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠 &nbsp;Tecnologias
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=geovanilima&show_icons=true&theme=vision-friendly-dark" alt="geovani lima starts"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanilima&layout=compact&theme=vision-friendly-dark" alt="geovani lima tecnologias"/>
-</p>
-
-<br><br>
-
-## Contato
-
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/geovani-lima-da-silva-5a845416a/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-geovanilima-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/geovanildsilva/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-geovanilima-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
